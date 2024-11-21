@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright 2023 SoftzinoTechnologies
+  ~
+  ~ ========================================================================
+  ~
+  ~ Project: stylus-kit
+  ~ Developed by: @SoftzinoTechnologies
+  ~
+  ~ Source: https://github.com/softzino/stylus-kit
+-->
+
+<vector android:height="24dp" android:tint="#000000"
+    android:viewportHeight="24" android:viewportWidth="24"
+    android:width="24dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@android:color/white" android:pathData="M19,13H5v-2h14v2z"/>
+</vector>

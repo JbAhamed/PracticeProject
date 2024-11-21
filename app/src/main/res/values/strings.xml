@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComposeSample</string>
+    <string name="username">User name</string>
+    <string name="email">Email</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="username">ব্যবহারকারীর নাম</string>
+    <string name="email">ইমেল</string>
+</resources>
